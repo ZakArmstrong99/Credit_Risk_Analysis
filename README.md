@@ -1,7 +1,7 @@
 # Credit_Risk_Analysis
 
 ## Overview of the loan prediction risk analysis:
-The purpose of this analysis was to create models using sklearn and imblearn in order to see what influences credit risk for loans. More specifcally, the goal was to see if random oversampling, SMOTE oversampling, undersampling, SMOTEENN sampling, balanced random forest classifier, or the easy ensemble adaboost classifier is the most accurate. In order to create the models the data was split using train_test_split to make predictions using the sampling methods and classifiers.  
+The purpose of this analysis was to create models using sklearn and imblearn in order to see what influences credit risk for loans. More specifcally, the goal was to see if random oversampling, SMOTE oversampling, undersampling, SMOTEENN sampling, balanced random forest classifier, or the easy ensemble adaboost classifier is the most accurate. In order to create the models the data was split using train_test_split to make predictions using the sampling methods and classifiers. The balanced accuracy scores and classification reports provide the information to decide which of the models are the most accurate. 
 
 
 ## Results:
